@@ -7,4 +7,10 @@ class ClassX {
 		ClassX obj = new ClassX(); 
 		obj.methodX();
 	}
+	
+public static void main(String args[]){
+		ClassX obj = new ClassX(); 
+		obj.methodX();
+	}
+
 }
